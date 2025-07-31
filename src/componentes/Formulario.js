@@ -1,5 +1,6 @@
 function Formulario({ children, onSubmit }) {
   return (
+
 <form
   onSubmit={onSubmit}
   style={{ backgroundColor: 'pink' }}
