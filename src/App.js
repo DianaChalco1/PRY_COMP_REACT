@@ -11,12 +11,12 @@ function App() {
   // Datos de ejemplo para la tabla
   const cabeceraTabla = ["ID", "Nombre", "Edad"];
   const datosTabla = [
-    [1, "Ana", 28],
-    [2, "Luis", 34],
-    [3, "Marta", 23],
+    [1, "Denisse", 30],
+    [2, "Martina", 34],
+    [3, "Estefany", 23],
   ];
   // Datos de ejemplo para la lista
-  const elementosLista = ["Manzana", "Banana", "Pera", "Uva"];
+  const elementosLista = ["Cereza", "Manzana", "Sandía", "Mora"];
 
   return (
     <div className="container my-5">

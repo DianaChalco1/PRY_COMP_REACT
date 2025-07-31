@@ -4,7 +4,7 @@ function Tabla({ titulo, cabecera, datos }) {
   return (
     <div className="card shadow-sm mb-4">
 
-      <div className="card-header bg-warning text-white">
+      <div className="card-header bg-info text-white">
         <Titulo texto={titulo} nivel="3" />
       </div>
       <div className="table-responsive">
